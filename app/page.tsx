@@ -2,7 +2,7 @@ import Link from "next/link"
 
 import { siteConfig } from "@/config/site"
 import { buttonVariants } from "@/components/ui/button"
-import QRCodeViewer from "@/components/QRCodeGenerator"
+import QRCodeViewer from "@/components/QRCodeViewer"
 
 export default function IndexPage() {
   return (
